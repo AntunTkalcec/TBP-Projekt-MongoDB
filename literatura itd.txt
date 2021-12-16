@@ -1,0 +1,3 @@
+Aplikacija za analizu velikih količina podataka (NoSQL, map/reduce) - polustrukturirane baze podataka - 
+CouchDB/MongoDB/Redis ili sl. + sučelje na neki tablični kalkulator 
+(npr. Jupyter Notebook, LibreOffice Calc ili Gnumeric) --- TEMA
